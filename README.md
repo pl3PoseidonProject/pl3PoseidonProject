@@ -1,4 +1,4 @@
-### Hello We are Team Poseidon, We are planning to create an app that both connects doctor and their patients. The doctor will set the notification settings of the users phone through an app when they will take their medicines and when their next checkup will be. They will also send a notification of what are the kinds of medicine needed for their patients to take.
+### Hello We are Team Poseidon, Our project is called project:Heal. We are planning to create an app that lets the doctor prescriptions be digitalized by notification. The Patient will be able to set his medication schedules as well as his/her dosages of each medicine. A notification will pop up in the screen as well as a alarm to alert the patient.The Features will have a sound alarm and on going notification till you finsih your required prescription.
 
 <!--
 **pl3PoseidonProject/pl3PoseidonProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
