@@ -7,6 +7,7 @@
 4. A print function that shows all you have inputted in the middle of the program
 5. Another alarm on when your next checkup will be
 
+Youtube Presentation and Demo: https://www.youtube.com/watch?v=EHA0Incn2X4
 <!--
 **pl3PoseidonProject/pl3PoseidonProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
